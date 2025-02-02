@@ -1,2 +1,2 @@
-# cbc-hcj123
-dvdhdh jdjcj11
+# game 1
+number 1-100
